@@ -1,7 +1,7 @@
 ---
 nbip: 001
 title: Reduce the per block reward from 35 to 17
-status: Draft
+status: Final (Core)
 type: Standards Track
 category: Core
 author: Charles Cao (@flyworker)
